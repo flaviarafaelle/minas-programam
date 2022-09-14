@@ -3,17 +3,15 @@
 </p>
 
 ## Descrição
-<br>Bertha Driver é um projeto criado no curso Minas Programam 2022.02. Sua proposta é ser uma landing page de um app de mobilidade que conecta mulheres, com segurança e tranquilidade.
+Bertha Driver é um projeto criado no curso Minas Programam 2022.02. Sua proposta é ser uma landing page de um app de mobilidade que conecta mulheres, com segurança e tranquilidade.
 
 ## Tecnologias utilizadas
-- ``HTML``
-- ``CSS``
-- ``Java Script``
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=50 width=50/>
 
 ## Status
 > :construction: Projeto em construção :construction:
 
-## Funcionalidades e Demonstração
-- Motorista
-- Passageira
-- Habilitada
+## Funcionalidades
+``Motorista`` ``Passageira`` ``Habilitada``
+
+## Demonstração
