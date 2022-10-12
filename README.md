@@ -8,4 +8,5 @@
     Promovemos oportunidades de aprendizado sobre programação para meninas e
     mulheres, priorizando àquelas que são negras ou indígenas.
   </h2>
+  <img src="https://github.com/flaviarafaelle/minas-programam/blob/flavinha/minasprogramam_logo-1000.png?raw=true" alt="minas logo"/>
 </div>
