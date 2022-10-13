@@ -1,4 +1,4 @@
-<h2 align="center"> Curso Minas Programam 2022 | Turma II | Lógica de Programação</h1>
+<h2 align="center"> Curso Minas Programam 2022 | Turma II | Lógica de Programação</h2>
 <h3 align="center">
     O Minas Programam é uma iniciativa criada em 2015 para desafiar os
     estereótipos de gênero e de raça que influenciam nossa relação com as áreas
