@@ -1,0 +1,69 @@
+/*
+    Exercício 1: 
+    Crie a estrutura dos arquivos de acordo com a extensão que utilizaremos, 
+    em seguida, utilize a estrutura html com o head e body. 
+    Crie uma div e dentro dela um paragráfo que conterá uma frase
+    que você acha impactante e mude de cor a DIV e o paragráfo utilizando
+    o css externo.
+
+    Exercício 2:
+    Crie outra divisória porém com a cor de fundo diferente;
+    Dentro da divisória nova insira: 
+        1. Título principal.
+        2. Imagem com a origem interna -> tem que conter texto explicativo para acessibilidade.
+        3. Paragráfo.
+
+    Exercício 3: 
+    Utilizando as Classes, crie outra div com cores diferentes, dentro dela uma lista de itens não odernados e um
+    paragráfo com uma fonte e tamanho diferente.
+    Insira um espaçamento entre o topo da div e abaixo também, para não ficar com os itens muito colados. 
+*/
+
+* {
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.ex1 { 
+    background-color: pink
+}
+
+.ex1 p {
+    color: black;
+    font-size: 18px;
+}
+
+.ex2 {
+    background-color: white;
+}
+
+.ex2 h1 {
+    color: pink;
+}
+
+img {
+    width: 300px;
+    border-radius: 100px;
+}
+
+.ex2 p {
+    color: pink;
+    font-size: 18px;
+}
+
+.ex3 {
+    background-color: rgb(255, 255, 208);
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.ex3 p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.ex3 ul li {
+    list-style: none;
+}
