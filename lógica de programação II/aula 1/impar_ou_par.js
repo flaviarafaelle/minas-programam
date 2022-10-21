@@ -17,4 +17,4 @@ if (numero % 2 === 0) {
 /*
 notas:
 tive dificuldades em fazer, ainda não entendi o módulo, vou estudar mais sobre ele
-/*
+*/
