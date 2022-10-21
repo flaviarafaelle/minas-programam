@@ -6,7 +6,7 @@
   Dica do sucesso: todo número par é divisível por 2.
 */
 
-numero = 6
+let  numero = 6
 
 if (numero % 2 === 0) {
   console.log(`O número ${numero} é par`)
