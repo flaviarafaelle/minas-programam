@@ -9,7 +9,7 @@ Crie um programa que leia a idade do nadador e o classifique em uma das categori
 Caso a pessoa não tenha idade para nenhuma das categorias
 o programa deve retornar "Você ainda não pode competir!"
 
-Tarefa feita em trio, com: 
+Tarefa feita em trio, com: Tamy e Pamela
 */
 
 let idade = 19;
