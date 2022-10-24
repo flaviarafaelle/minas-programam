@@ -9,3 +9,24 @@
   Caso a pessoa não tenha idade para nenhuma das categorias 
   o programa deve retornar "Você ainda não pode competir!" 
 */
+
+const idade = 4;
+
+if (idade < 5) {
+  console.log("Você ainda não pode competir!")
+} else if ((idade >= 5) && (idade <= 7)) {
+  console.log("Você vai competir na Infantil A")
+} else if ((idade >= 8) && (idade <= 11)) {
+  console.log("Você vai competir na Infantil B")
+} else if ((idade >= 12) && (idade <= 13)) {
+  console.log("Você vai competir na Juvenil A")
+} else if ((idade >= 14) && (idade <= 17)) {
+  console.log("Você vai competir na Juvenil B")
+} else {
+  console.log("Você vai competir na categoria Adulto")
+}
+
+/*
+notas:
+foi dificil, estava no caminho certo, mas esqueci totalmente do || e &&
+*/
