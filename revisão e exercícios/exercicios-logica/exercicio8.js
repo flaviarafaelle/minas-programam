@@ -13,3 +13,11 @@ A saída terá que ser:
 "Alessandra"
 "Alessandra"
 "Alessandra"*/
+  
+const obterNome = "Jéssica";
+const repetirNome = 4
+let n = 0
+
+for (let i = 0; i < repetirNome; i++) {
+    console.log(obterNome);
+  }
