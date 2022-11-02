@@ -11,7 +11,7 @@
 const clientes = [];
 
 function adicionarClientes(nome, cpf, idade, saldo, confiabilidade) {
-    let novoCliente = {
+    const novoCliente = {
         nome: nome,
         cpf: cpf,
         idade: idade,
@@ -19,26 +19,14 @@ function adicionarClientes(nome, cpf, idade, saldo, confiabilidade) {
         confiabilidade: confiabilidade,
     };
 
+  console.log(`Cliente ${nome} adicionada com sucesso!`);
   clientes.push(novoCliente);
 }
 
-adicionarClientes(
-    "Artu",
-    123,
-    24,
-    "rico magnata esbanjando vr",
-    7,
-  );
+adicionarClientes("Artu", 123, 24, "1541548", 7,);
+adicionarClientes("Flavia", 321, 19, "647", 9,);
 
-  adicionarClientes(
-    "Flavia",
-    321,
-    19,
-    "pobre jovem aprendiz",
-    9,
-  );
-
-  console.log({clientes})
+console.log({clientes})
 
 //  2. Crie uma função que verifica pelo cpf se a pessoa é sua cliente.
 
@@ -47,25 +35,29 @@ adicionarClientes(
       console.log(clientes[i].cpf);
 
       if (clientes[i].cpf === cpf) {
-        console.log ("É um cliente")
+        console.log(`${clientes[i].nome} é nossa cliente.`);
         return
       }
     }
-    console.log ("Cliente não encontrado")
+    console.log("Cliente não existe");
   };
-
-  verificarCpf(123)
+verificarCpf(123)
 
   // 3. Crie uma função que debita o saldo da pessoa caso ela saque um valor.
 function debitar(cpf, valor) {
   for (let i = 0; i < clientes.length; i++) {
     if (cpf === clientes[i].cpf) {
       const novoSaldo = clientes[i].saldo - valor;
+      
       clientes[i].saldo = novoSaldo;
-      console.log("Valor debitado")
+      
+      console.log(
+        `O saldo de ${clientes[i].nome} foi debitado\nSaldo atual: R$${clientes[i].saldo}`
+      );
     }
   }
 }
+
 console.log(clientes);
 debitar(123, 95);
 console.log(clientes)
