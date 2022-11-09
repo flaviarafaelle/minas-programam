@@ -18,7 +18,7 @@ minasProgramam - Curso de introdução a programação - 12ª semana (07, 08 e 1
 
 ## A Professora - Lilit 
 
-<img src='./assets/lilit.jpeg' width=700 alt='selfie de Lilit com cabelos cacheados pretos presos num rabo de cavalo com a franja dividida ao meio, olhos pretos, baton rosa e mão direita ao lado do rosto com detalhes da tatuagem no punho, o fundo preto com linhas brancas'>
+<img src='./assets/lilit.jpeg' width=200 alt='selfie de Lilit com cabelos cacheados pretos presos num rabo de cavalo com a franja dividida ao meio, olhos pretos, baton rosa e mão direita ao lado do rosto com detalhes da tatuagem no punho, o fundo preto com linhas brancas'>
 
 - Me chamo [Lilit Bandeira](https://www.instagram.com/lilitravesti), sou uma travesti paraibana residente em São Paulo, trabalho como Software Engineer no Nubank e professora no {reprograma} e minasProgramam;
 
@@ -28,7 +28,7 @@ minasProgramam - Curso de introdução a programação - 12ª semana (07, 08 e 1
 
 ## A Monitora - Lorena
 
-<img src='./assets/lorena.png' width=400 alt='selfie de Lorena com cabelos cacheados pretos soltos, olhos castanhos, blusa azul com uma parede de tijolos a vista ao fundo'>
+<img src='./assets/lorena.png' width=200 alt='selfie de Lorena com cabelos cacheados pretos soltos, olhos castanhos, blusa azul com uma parede de tijolos a vista ao fundo'>
 
 - Sou Lorena, ex-aluna e professora na {reprograma} e monitora aqui no minasProgramam, engenheira de software no Zé Delivery, nômade digital (atualmente em São Paulo) :)
 
