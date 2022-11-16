@@ -1,13 +1,5 @@
 ## [2022.2 Minas] Revisão de Lógica de Programação
 
----
-
-<center>
-  <img src="https://thumbs.gfycat.com/PlayfulSoftAmphibian-size_restricted.gif" alt="drawing" width="300"/>
-</center>
-
----
-
 ## 📚 Conteúdo
 
 1. Javascript
